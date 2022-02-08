@@ -1,0 +1,137 @@
+body
+{
+   background-color:grey;  
+}
+.container
+{
+    width:1300px;
+    height:500px;
+    border:8px solid green;
+}
+.box1
+{
+    width: 300px;
+    height:100px;
+    border:4px solid red;
+    box-sizing: border-box;
+    border-radius:10px;
+    text-align: center;
+    background-color: white;
+    color:brown;
+    margin:auto;
+    padding:15px;
+    font-weight:100px;
+    box-shadow:6px 5px 2px purple;
+}
+.h
+{
+    text-shadow:4px 2px 8px  brown;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.box2
+{
+    width: 200px;
+    height:150px;
+    border:4px solid red;
+    box-sizing: border-box;
+    border-radius:10px;
+    text-align: center;
+    background-color: white;
+    color:brown;
+    float:right;
+    box-shadow:6px 5px 2px purple;
+}
+
+.box3
+{
+    width: 200px;
+    height:150px;
+    border:4px solid red;
+    box-sizing: border-box;
+    border-radius:10px;
+    text-align: center;
+    background-color: white;
+    color:black;
+    box-shadow:6px 5px 2px purple;
+}
+.a1
+{
+    text-shadow:4px 2px 4px  brown;
+    padding:20px;
+}
+.box4
+{
+    width: 400px;
+    height:60px;
+    border:4px solid red;
+    box-sizing: border-box;
+    border-radius:10px;
+    text-align: center;
+    color:brown;
+    align-items:center;
+     background-color:rgb(30, 161, 30);
+    position:fixed;
+    text-shadow:4px 2px 4px  brown;
+    padding:8px;
+    margin-left:500px;
+    box-shadow:6px 5px 2px purple;
+}
+.box5
+{
+    width: 200px;
+    height:180px;
+    border:4px solid red;
+    box-sizing: border-box;
+    border-radius:10px;
+    text-align: center;
+    background-color: white;
+    color:brown;
+    float:right;
+    box-shadow:6px 5px 2px purple;
+}
+.l
+{
+    color:black;
+    text-shadow:4px 2px 4px  brown;
+    padding:15px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.box6
+{
+    width: 200px;
+    height:150px;
+    border:4px solid red;
+    box-sizing: border-box;
+    border-radius:10px;
+    text-align: center;
+    background-color: white;
+    color:black;
+    box-shadow:6px 5px 2px purple;
+}
+.w
+{
+    text-shadow:4px 2px 4px  brown;
+    padding:15px;
+}
+.btn
+{
+    color:black;
+    border-radius:20px;
+    background-color:red;
+}
+
+.text1
+{
+    background-color: green;
+    border:2px solid black;
+    width:400px;
+    height:500px;
+}
+.row1
+{
+    background-color: yellow;
+    padding:20px;
+}
+
